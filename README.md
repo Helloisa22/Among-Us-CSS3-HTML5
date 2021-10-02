@@ -9,4 +9,4 @@ Personagens do Among Us apenas com CSS3 e HTML5
 * Pagina Inicial para chamar todos os desenhos apenas pela cor
 
 ## Esboço
-![Desenho inicial](https://drive.google.com/file/d/1Uj2Y4E7Ml36ifO297Lxz0oUsgODxfxJz/view?usp=sharing)
+![Desenho inicial](https://imgur.com/JEsuaJ9)
